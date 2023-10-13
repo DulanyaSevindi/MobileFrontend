@@ -9,7 +9,7 @@ export default function Welcome() {
         <Text style={{ color: "white" }}>Dulanya</Text>World
       </Text>
       <Image source={logoImag} style={{ width: 300, height: 300 }} />
-      <Button title="LOGIN" />
+      <Button title="LOGIN" color="#726E6D" />
     </View>
   );
 }
